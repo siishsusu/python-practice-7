@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-pandas = "*"
+pandas = "==2.0.3"
 matplotlib = "*"
-pylint = "*"
-black = "*"
+pylint = "==3.0.4"
+black = "==24.2.0"
 
 [dev-packages]
 
